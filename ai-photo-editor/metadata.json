@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Editor",
+  "description": "An AI-powered image enhancement tool to automatically retouch, restore, and transform photos. Features include background removal, color correction, object removal, and style filters.",
+  "requestFramePermissions": []
+}
