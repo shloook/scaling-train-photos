@@ -121,7 +121,4 @@ Project Link: [https://github.com/shloook/scaling-train-photos](https://github.c
 
 *(**NOTE:** Consider adding your email or other contact information here.)*
 
-```
 
-Would you like me to create a separate file outlining the **Contributing Guidelines** or the **Code of Conduct**?
-```
