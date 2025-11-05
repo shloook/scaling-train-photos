@@ -1,19 +1,20 @@
+# AI Photo Editor
 
+AI-powered photo enhancement and editing tool. Supports filters, transformations, and intelligent improvements.
 
+## 🚀 Quickstart
 
-# Run and deploy your AI Studio app
+```bash
+# Clone
+git clone https://github.com/shloook/scaling-train-photos.git
+cd ai-photo-editor
 
-This contains everything you need to run your app locally.
+# Install dependencies
+npm install
+# or
+pip install -r requirements.txt
 
-View your app in AI Studio: https://ai.studio/apps/drive/1t4WNKtfxAN26ZgU-L_aJbU05zCelkRio
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+# Run
+npm start
+# or
+python server.py
